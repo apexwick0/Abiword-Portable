@@ -193,4 +193,4 @@ This repository serves as the official landing page for AbiWord Portable. The so
 **Get the most recent version of AbiWord Portable today!**
 
 ---
-**Last updated:** 2026-11-06 17:08:10 UTC
+**Last updated:** 2026-11-06 22:39:39 UTC
